@@ -1,8 +1,13 @@
 Name:Uppara Pavani
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS7245
+
 Domain:Embedded Systems
+
 Duration:August to September 2024
+
 Mentor:Neela Santhosh Kumar
 
  Overview  of the Project
