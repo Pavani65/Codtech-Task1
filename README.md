@@ -11,9 +11,12 @@ Duration:August to September 2024
 Mentor:Neela Santhosh Kumar
 
  Overview  of the Project
-
+LED is OFF
 
  ![OFF](https://github.com/user-attachments/assets/c88452fc-a152-495b-9d6b-2e699f5f3494)
+
+ LED is ON
+ ![ON](https://github.com/user-attachments/assets/77a7cc1e-5895-47f5-9050-88f985dc6f4b)
 
 - Objective: Program an Arduino board to blink an LED at a specific interval.
 - Components:
