@@ -11,6 +11,10 @@ Duration:August to September 2024
 Mentor:Neela Santhosh Kumar
 
  Overview  of the Project
+
+
+ ![OFF](https://github.com/user-attachments/assets/c88452fc-a152-495b-9d6b-2e699f5f3494)
+
 - Objective: Program an Arduino board to blink an LED at a specific interval.
 - Components:
     - Arduino Uno board
